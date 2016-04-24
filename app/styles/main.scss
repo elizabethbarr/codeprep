@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+}
+
+.hero-banner h1 {
+  margin: 0;
+}
+
+/**
+ * Basic styles
+ */
+body {
+  font-family: 'Droid Serif';
+  color: #90172a;
+}
+
+.container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background: #B1d4cd;
+}
+
+.hero-banner {
+  height: 400px;
+  background: url('../images/littlehand.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+footer {
+  background: #B1d4cd;
+}
+
+.doughnut {
+  height: 300px;
+  width: 300px;
+  background: url('../images/footer-doughnut.png') no-repeat;
+}
+
+.add-sprinkles {
+  background: purple;
+  color: white;
+}
+
+body {
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+}
+
+.hero-banner h1 {
+  margin: 0;
+}
+
+/**
+ * Basic styles
+ */
+body {
+  font-family: 'Helvetica', Arial, Sans-serif;
+  color: #90172a;
+}
+
+.container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background: #B1d4cd;
+}
+
+.hero-banner {
+  height: 400px;
+  background: url('../images/littlehand.jpeg') fixed;
+  background-size: cover;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+footer {
+  background: #B1d4cd;
+}
+
+.doughnut {
+  height: 300px;
+  width: 300px;
+  background: url('../images/footer-doughnut.png') no-repeat;
+}
+
+.add-sprinkles {
+  background: purple;
+  color: white;
+}
